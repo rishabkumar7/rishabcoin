@@ -56,4 +56,5 @@ rishabCoin.addBlock(new Block(2, "16/05/2021", { amount: 10 }));
 
 console.log('Is blockchain valid? ' + rishabCoin.isChainValid());
 
+
 //console.log(JSON.stringify(rishabCoin, null, 4));
